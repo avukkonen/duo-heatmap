@@ -1,0 +1,14 @@
+.row {
+  display: flex;
+  align-items: center;
+}
+
+.rowLabel {
+  font-size: 0.7rem;
+  margin-right: 12px;
+  width: 100px;
+}
+
+.rowData {
+  display: flex;
+}
